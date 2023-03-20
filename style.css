@@ -1,4 +1,5 @@
 :root {
+  --transparency-value: 0.05;
   /* Primary */
   --light-red: hsl(0, 100%, 67%);
   --orangey-yellow: hsl(39, 100%, 56%);
